@@ -1,0 +1,6 @@
+<generator>
+  <name>customgen-cpp</name>
+  <m2t name="cppgen/cpp.mtl" />
+  <m2t name="cppgen/makefile.mtl" />
+  <m2t name="cppgen/main.mtl" />
+</generator>
